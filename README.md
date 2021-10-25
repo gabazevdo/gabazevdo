@@ -1,5 +1,5 @@
 
-<div align="center" > <h1>Olá! Aqui é o perfil do Gabriel Azevedo </h1> </div>
+<div align="center" > <h1>Olá! Eu sou o Gabriel Azevedo </h1> </div>
 
 <h3 align="center" >🔭 Estou em busca de uma vaga de desenvolvedor Web </h3>
 <br>
