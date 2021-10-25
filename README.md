@@ -1,11 +1,11 @@
 
 <div align="center" > <h1>Olá! Eu sou o Gabriel Azevedo </h1> </div>
 
-<h3 align="center" >🔭 Estou em busca de uma vaga de desenvolvedor Web </h3>
+<p align="center" > Estou em busca de uma vaga de desenvolvedor Web </p>
 <br>
 
 
-  <h3 align="center" > Estou estudando as tecnologias</h3>
+  <h3 align="center" > Estudando as tecnologias</h3>
 <div align="center">
   <img align="center" alt="gabazevdo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabazevdo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
