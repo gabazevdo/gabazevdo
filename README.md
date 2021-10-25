@@ -16,7 +16,7 @@
 </div>
  <div align="center">
   <br>
-<h3> 🌐 Que falar comigo? </h3> 
+<h3>Quer falar comigo? </h3> 
     <div>
       
   <a href="https://instagram.com/gabazevdo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabazevdo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  ![Snake animation](https://github.com/gabazevdo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabazevdo/gabazevdo/blob/output/github-contribution-grid-snake.svg)
 
 
   
