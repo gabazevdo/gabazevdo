@@ -1,9 +1,16 @@
+<!-- TITLE --> 
+<p align="center">
+  <a>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gabriel+Azevedo;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</p>
 
-<div align="center" > <h1>Olá! Eu sou o Gabriel Azevedo </h1> </div>
+<!-- GIF MARIO -->
+<h1 align="center">
 
-<p align="center" > Estou em busca de uma vaga de desenvolvedor Web </p>
-<br>
+  <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
+</h1>
 
   <h3 align="center" > Estudando as tecnologias</h3>
 <div align="center">
@@ -28,14 +35,42 @@
   </div>
 <br>
 
-  <a href="https://github.com/gabazevdo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabazevdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabazevdo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
-  ![Snake animation](https://github.com/gabazevdo/gabazevdo/blob/output/github-contribution-grid-snake.svg)
+<!--  STATS  -->
+<h1 align="center"></h1>
+<br>
+<h1 align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gabazevdo&theme=tokyonight&border=61dafb&hide_border=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Streak Stats" align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gabazevdo&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
+    </a>
+  </div>
+  <br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabazevdo&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+<img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=gabazevdo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+</h1> 
 
 
+  <!--Metricas github-->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/gabazevdo)  --> 
+
+  
+  
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/gabazevdo/gabazevdo/output/github-contribution-grid-snake.svg)
+
+
+  
+  ![Profile views](https://gpvc.arturio.dev/gabazevdo)
   
   
 
