@@ -5,6 +5,19 @@
   </a>
 </p>
 
+<h3 align="center">Sou um futuro desenvolvedor fullstack. 🤩 </h3>
+ <br> 
+ <div align='center'>
+ <p>
+  🏆 Formado em desenvolvimento React na Edtech Labenu: <a href="https://github.com/gabazevdo/Gabriel-Silva">(repo)</a>
+  <br>
+🏋️‍♂️  Atualmente estudante no programa CTD (Certified Tech Developer) da Digital House: <a href="https://github.com/gabazevdo/CTD-DigitalHouse"> (repo) </a>
+</p>
+
+</div>
+
+
+
 <!-- GIF MARIO -->
 <h1 align="center">
 
