@@ -12,6 +12,8 @@
   🏆 Formado em desenvolvimento React na Edtech Labenu: <a href="https://github.com/gabazevdo/Gabriel-Silva">(repo)</a>
   <br>
 🏋️‍♂️  Atualmente estudante no programa CTD (Certified Tech Developer) da Digital House: <a href="https://github.com/gabazevdo/CTD-DigitalHouse"> (repo) </a>
+<p>
+  Os Checkpoints (prova final bimestral) estão separados em uma organização para melhor dividí-las. <a href="https://github.com/DH-Checkpoints" >Veja aqui</a>
 </p>
 
 </div>
