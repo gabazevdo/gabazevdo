@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">Sou um futuro desenvolvedor fullstack. 🤩 </h3>
+<h3 align="center">Futuro programador da web 🤩 </h3>
  <br> 
  <div align='center'>
  <p>
