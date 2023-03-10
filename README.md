@@ -7,7 +7,7 @@
 
 <h3 align="center">Futuro programador da web 🤩 </h3>
  <br> 
- <div align='center'>
+<!--  <div align='center'>
  <p>
   🏆 Formado em desenvolvimento React na Edtech Labenu: <a href="https://github.com/gabazevdo/Gabriel-Silva">(repo)</a>
   <br>
@@ -16,7 +16,7 @@
   Os Checkpoints (prova final bimestral) estão separados em uma organização para melhor dividí-las. <a href="https://github.com/DH-Checkpoints" >Veja aqui</a>
 </p>
 
-</div>
+</div> -->
 
 
 
