@@ -70,12 +70,13 @@
     </a>
   </div>
   <br>
+  <!--
 <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=gabazevdo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 </h1> 
-
+-->
 
   <!--Metricas github-->
-<!-- ![GitHub metrics](https://metrics.lecoq.io/gabazevdo)  --> 
+  <!-- ![GitHub metrics](https://metrics.lecoq.io/gabazevdo)-->
 
   
   
